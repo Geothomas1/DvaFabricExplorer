@@ -1,0 +1,9 @@
+{
+	"network-configs": {
+		"datavalut-network": {
+			"name": "datavalut-network",
+			"profile": "./connection-profile/datavalut-network_2.2.json"
+		}
+	},
+	"license": "Apache-2.0"
+}
